@@ -1,0 +1,10 @@
+{
+  "/(app)/analytics/page": "app/(app)/analytics/page.js",
+  "/(app)/dashboard/page": "app/(app)/dashboard/page.js",
+  "/(app)/my-tasks/page": "app/(app)/my-tasks/page.js",
+  "/(app)/projects/[id]/page": "app/(app)/projects/[id]/page.js",
+  "/(app)/projects/page": "app/(app)/projects/page.js",
+  "/(app)/settings/page": "app/(app)/settings/page.js",
+  "/(app)/team/page": "app/(app)/team/page.js",
+  "/page": "app/page.js"
+}
